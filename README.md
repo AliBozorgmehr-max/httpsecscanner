@@ -11,6 +11,22 @@ Developed with 💻 by **Ali Bozorgmehr**
 - Output in plain text or JSON
 - Batch scan support from a file of URLs
 
+## 🛠️ Installation & Setup
+
+### Clone the repository from GitHub:
+```bash
+git clone https://github.com/USERNAME/httpsecscanner.git
+```
+```bash
+cd httpsecscanner
+```
+
+### Install required dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+
 ## 🚀 How to Use
 
 ### Simple Scan:
