@@ -15,7 +15,7 @@ Developed with 💻 by **Ali Bozorgmehr**
 
 ### Clone the repository from GitHub:
 ```bash
-git clone https://github.com/USERNAME/httpsecscanner.git
+git clone https://github.com/AliBozorgmehr-max/httpsecscanner.git
 ```
 ```bash
 cd httpsecscanner
